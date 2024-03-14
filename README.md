@@ -17,4 +17,4 @@ Follow the steps:
 7. Now change the FEATURES and the TARGETS to the columns you want to use.
 8. Finally, check that the lines of code work correctly.
 9. In this case, our code has 3 models to do predicts.
-10. Finally, use the code with caution and thank you.
+10. Use the code with caution and thank you.
